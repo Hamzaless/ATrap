@@ -103,6 +103,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 I don't plan to make any updates or fixes, so please don't ask for help to fix the code.
 
---- 
-
-Let me know if you need further adjustments!
+## Contact
+Discord: MrHamzaless
+Instagram: hamz.dev
