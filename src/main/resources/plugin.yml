@@ -1,0 +1,11 @@
+name: Atrap
+version: '0.01'
+main: ashnodes.com.atrap.Atrap
+api-version: '1.18'
+load: STARTUP
+authors: [ StayLing ]
+website: https://ashnodes.co/
+
+commands:
+  atrap:
+    description: Main command for Trap plugin.

@@ -1,0 +1,36 @@
+Menu:
+  Gui-Rows: 3
+  Gui-Name: ᴛʀᴀᴘ ᴀʏᴀʀʟᴀʀı
+  Fill-Item:
+    Status: true
+    Name: "&r"
+    Material: GRAY_STAINED_GLASS_PANE
+  Member-List:
+    Name: "&eüʏᴇ ᴀʏᴀʀʟᴀʀı"
+    Slot: 11
+    Material: PLAYER_HEAD
+    Lore:
+      - ""
+      - "&7üʏᴇʟᴇʀɪ ᴛʀᴀᴘᴛᴇɴ çıᴋᴀʀᴍᴀɴı ѕᴀğʟᴀʀ  "
+      - ""
+      - "&eᴀʏᴀʀʟᴀʀᴀ ɢɪʀᴍᴇᴋ ɪçɪɴ ᴛıᴋʟᴀ"
+  Trap-Settings:
+    Name: "&eᴢɪʏᴀʀᴇᴛᴄɪ ᴀʏᴀʀʟᴀʀɪ"
+    Slot: 13
+    Material: REDSTONE_TORCH
+    Lore:
+      - ""
+      - "&7ᴢɪʏᴀʀᴇᴛᴄɪʟᴇʀɪɴ ʏᴇᴛᴋɪʟᴇʀɪɴɪ ᴀʏᴀʀʟᴀʀ"
+      - ""
+      - "&eᴀʏᴀʀʟᴀʀᴀ ɢɪʀᴍᴇᴋ ɪçɪɴ ᴛıᴋʟᴀ"
+  Authorisation-Settings:
+    Name: "&eʏᴇᴛᴋɪ ᴀʏᴀʀʟᴀʀı"
+    Slot: 15
+    Material: COMPARATOR
+    Lore:
+      - ""
+      - "&7ᴛʀᴀᴘ üʏᴇʟᴇʀɪɴɪɴ ᴛʀᴀᴘ ɪçᴇʀɪѕɪɴᴅᴇ"
+      - "&7ɴᴇʟᴇʀʟᴇ ᴇᴛᴋɪʟᴇşɪᴍᴇ ɢɪʀᴇʙɪʟᴇᴄᴇğɪɴɪ  "
+      - "&7ᴀʏᴀʀʟᴀᴍᴀɴı ѕᴀğʟᴀʀ"
+      - ""
+      - "&eᴀʏᴀʀʟᴀʀᴀ ɢɪʀᴍᴇᴋ ɪçɪɴ ᴛıᴋʟᴀ"

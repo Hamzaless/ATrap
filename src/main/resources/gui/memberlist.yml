@@ -1,0 +1,26 @@
+Menu:
+  Gui-Name: üʏᴇ ᴀʏᴀʀʟᴀʀı
+  Gui-Row: 6
+  List: 10,11,12,13,14,15,16,18,19,20,21,22,23,24,25,26,28,29,30,31,32,33,34
+  Fill-Item:
+    Status: true
+    Name: "&r"
+    Material: GRAY_STAINED_GLASS_PANE
+  Previous-Page:
+    Name: "&aöɴᴄᴇᴋɪ ѕᴀʏꜰᴀ"
+    Slot: 46
+    Material: BARRIER
+  Go-Back:
+    Name: "&cɢᴇʀɪ ᴅöɴ"
+    Slot: 49
+    Material: BARRIER
+  Next-Page:
+    Name: "&aѕᴏɴʀᴀᴋɪ ѕᴀʏꜰᴀ"
+    Slot: 52
+    Material: BARRIER
+  Member-List:
+    Name: "&e%player%"
+    Material: PLAYER_HEAD
+    Lore:
+      - "{uuid}"
+      - "&cüʏᴇʏɪ ᴛʀᴀᴘᴛᴇɴ ᴀᴛᴍᴀᴋ ɪçɪɴ ѕᴀğ ᴛɪᴋʟᴀ"
