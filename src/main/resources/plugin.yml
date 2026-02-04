@@ -1,10 +1,10 @@
 name: Atrap
 version: '0.01'
-main: ashnodes.com.atrap.Atrap
+main: mrhamzaless.com.atrap.Atrap
 api-version: '1.18'
 load: STARTUP
-authors: [ StayLing ]
-website: https://ashnodes.co/
+authors: [ MrHamzaless ]
+website: https://mrhamzaless.xyz/
 
 commands:
   atrap:
